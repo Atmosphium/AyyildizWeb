@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Cocogoose Classic';
+    src: url('./- Fonts/Cocogoose Classic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('./- Fonts/Lato.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('./- Fonts/Raleway.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'TRT';
+    font-weight: bold;
+    src: url('./- Fonts/TRT Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'TRT';
+    font-weight: lighter;
+    src: url('./- Fonts/TRT Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'TRT';
+    src: url('./- Fonts/TRT Regular.ttf') format('truetype');
+}
